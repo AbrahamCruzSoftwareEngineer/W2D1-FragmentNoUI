@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentNoUI</string>
+    <string name="hello">Hello World</string>
+    <string name="str_btn_load">Load Fragment</string>
+    <string name="str_tv_fragment">This is a Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
